@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>408750961465-6dd2j70r5j39pjtc9s853euitatbfjnh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.408750961465-6dd2j70r5j39pjtc9s853euitatbfjnh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCkEzb5SbaKjYQ9IER8N1nYsSh7qju39Ak</string>
+	<key>GCM_SENDER_ID</key>
+	<string>408750961465</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.chstores</string>
+	<key>PROJECT_ID</key>
+	<string>the-logistics</string>
+	<key>STORAGE_BUCKET</key>
+	<string>the-logistics.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:408750961465:ios:06f2b4be8821db55586ee8</string>
+</dict>
+</plist>
