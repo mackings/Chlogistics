@@ -7,8 +7,10 @@ void main() async {
   runApp(
     ProviderScope(child: MyApp())
   );
-  await WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp();
+   WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp(
+    options:DefaultFirebaseOptions.currentPlatform
+  );
 }
 
 class MyApp extends StatelessWidget {
